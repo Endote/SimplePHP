@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.form-wrapper {
+  padding: 15px; 
+  margin: 20px; 
+  border: solid black 1px;
+   background: purple;
+}
+
+.row {
+  margin-bottom: 2rem !important;
+}
